@@ -1,2 +1,4 @@
 ola este é um arquivo
 editado na nuvem
+ajustei localmente
+nova linha
